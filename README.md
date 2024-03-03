@@ -12,6 +12,6 @@ https://pypi.org/project/secure-smtplib/
 
 Edit the code to suit your needs:
 
-* SMTP server address, sender's email, email address and password for the sender's email.
+* SMTP server address for sender's email, recipient's email, email address and password for the sender's email.
 * Video URL
 * Time in seconds of the check interval
