@@ -4,10 +4,10 @@ Checking is carried out using youtube-dl https://github.com/ytdl-org/youtube-dl
 
 Install the same requirements for Python 3:
 
-pip install subprocess.run
+'pip install subprocess.run'
 https://pypi.org/project/subprocess.run/
 
-pip install secure-smtplib
+'pip install secure-smtplib'
 https://pypi.org/project/secure-smtplib/
 
 Edit the code to suit your needs:
